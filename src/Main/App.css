@@ -1,0 +1,13 @@
+.App {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    height: 100vh;
+    overflow: scroll;
+    
+  }
+  .content {
+    flex-grow: 1;
+    padding: 20px;
+    
+  }
